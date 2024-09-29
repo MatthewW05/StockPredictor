@@ -1,0 +1,3029 @@
+[
+    [
+        {
+            "ticker": "AACIW",
+            "error": "AACIW data does not go back that far",
+            "timestamp": 1722255790.7685893
+        },
+        {
+            "ticker": "AAGRW",
+            "error": "AAGRW data does not go back that far",
+            "timestamp": 1722255790.956182
+        },
+        {
+            "ticker": "ABLLW",
+            "error": "ABLLW data does not go back that far",
+            "timestamp": 1722255792.6888921
+        },
+        {
+            "ticker": "ABR^D",
+            "error": "ABR^D data does not go back that far",
+            "timestamp": 1722255794.2080522
+        },
+        {
+            "ticker": "ABR^E",
+            "error": "ABR^E data does not go back that far",
+            "timestamp": 1722255794.8856902
+        },
+        {
+            "ticker": "ABR^F",
+            "error": "ABR^F data does not go back that far",
+            "timestamp": 1722255795.7112586
+        },
+        {
+            "ticker": "ABVEW",
+            "error": "ABVEW data does not go back that far",
+            "timestamp": 1722255796.1582243
+        },
+        {
+            "ticker": "ACACW",
+            "error": "ACACW data does not go back that far",
+            "timestamp": 1722255796.626409
+        },
+        {
+            "ticker": "ACONW",
+            "error": "ACONW data does not go back that far",
+            "timestamp": 1722255798.1466267
+        },
+        {
+            "ticker": "ACP^A",
+            "error": "ACP^A data does not go back that far",
+            "timestamp": 1722255798.9410493
+        },
+        {
+            "ticker": "ACR^C",
+            "error": "ACR^C data does not go back that far",
+            "timestamp": 1722255799.6491275
+        },
+        {
+            "ticker": "ACR^D",
+            "error": "ACR^D data does not go back that far",
+            "timestamp": 1722255800.3012702
+        },
+        {
+            "ticker": "ADC^A",
+            "error": "ADC^A data does not go back that far",
+            "timestamp": 1722255801.9074683
+        },
+        {
+            "ticker": "ADNWW",
+            "error": "ADNWW data does not go back that far",
+            "timestamp": 1722255802.6143098
+        },
+        {
+            "ticker": "ADVWW",
+            "error": "ADVWW data does not go back that far",
+            "timestamp": 1722255803.3925986
+        },
+        {
+            "ticker": "AGM^D",
+            "error": "AGM^D data does not go back that far",
+            "timestamp": 1722255807.6114733
+        },
+        {
+            "ticker": "AGM^E",
+            "error": "AGM^E data does not go back that far",
+            "timestamp": 1722255808.2196991
+        },
+        {
+            "ticker": "AGM^F",
+            "error": "AGM^F data does not go back that far",
+            "timestamp": 1722255808.8507183
+        },
+        {
+            "ticker": "AGM^G",
+            "error": "AGM^G data does not go back that far",
+            "timestamp": 1722255809.5378287
+        },
+        {
+            "ticker": "AHH^A",
+            "error": "AHH^A data does not go back that far",
+            "timestamp": 1722255811.3051002
+        },
+        {
+            "ticker": "AHT^D",
+            "error": "AHT^D data does not go back that far",
+            "timestamp": 1722255812.016238
+        },
+        {
+            "ticker": "AHT^F",
+            "error": "AHT^F data does not go back that far",
+            "timestamp": 1722255812.7155602
+        },
+        {
+            "ticker": "AHT^G",
+            "error": "AHT^G data does not go back that far",
+            "timestamp": 1722255813.3690877
+        },
+        {
+            "ticker": "AHT^H",
+            "error": "AHT^H data does not go back that far",
+            "timestamp": 1722255814.0932083
+        },
+        {
+            "ticker": "AHT^I",
+            "error": "AHT^I data does not go back that far",
+            "timestamp": 1722255814.7157028
+        },
+        {
+            "ticker": "AILEW",
+            "error": "AILEW data does not go back that far",
+            "timestamp": 1722255815.0839772
+        },
+        {
+            "ticker": "AIMDW",
+            "error": "AIMDW data does not go back that far",
+            "timestamp": 1722255815.3461459
+        },
+        {
+            "ticker": "AIRJW",
+            "error": "AIRJW data does not go back that far",
+            "timestamp": 1722255816.0996993
+        },
+        {
+            "ticker": "AISPW",
+            "error": "AISPW data does not go back that far",
+            "timestamp": 1722255816.463653
+        },
+        {
+            "ticker": "AITRR",
+            "error": "AITRR data does not go back that far",
+            "timestamp": 1722255816.6858432
+        },
+        {
+            "ticker": "AL^A",
+            "error": "AL^A data does not go back that far",
+            "timestamp": 1722255818.3077607
+        },
+        {
+            "ticker": "ALB^A",
+            "error": "ALB^A data does not go back that far",
+            "timestamp": 1722255819.1150627
+        },
+        {
+            "ticker": "ALL^B",
+            "error": "ALL^B data does not go back that far",
+            "timestamp": 1722255821.3467803
+        },
+        {
+            "ticker": "ALL^H",
+            "error": "ALL^H data does not go back that far",
+            "timestamp": 1722255822.6579046
+        },
+        {
+            "ticker": "ALL^I",
+            "error": "ALL^I data does not go back that far",
+            "timestamp": 1722255823.3159692
+        },
+        {
+            "ticker": "ALL^J",
+            "error": "ALL^J data does not go back that far",
+            "timestamp": 1722255823.9379687
+        },
+        {
+            "ticker": "ALSAR",
+            "error": "ALSAR data does not go back that far",
+            "timestamp": 1722255825.0701842
+        },
+        {
+            "ticker": "ALSAW",
+            "error": "ALSAW data does not go back that far",
+            "timestamp": 1722255825.1937547
+        },
+        {
+            "ticker": "ALTG^A",
+            "error": "ALTG^A data does not go back that far",
+            "timestamp": 1722255826.1103241
+        },
+        {
+            "ticker": "AMH^G",
+            "error": "AMH^G data does not go back that far",
+            "timestamp": 1722255828.4808075
+        },
+        {
+            "ticker": "AMH^H",
+            "error": "AMH^H data does not go back that far",
+            "timestamp": 1722255829.0983377
+        },
+        {
+            "ticker": "ANG^A",
+            "error": "ANG^A data does not go back that far",
+            "timestamp": 1722255832.4123995
+        },
+        {
+            "ticker": "ANG^B",
+            "error": "ANG^B data does not go back that far",
+            "timestamp": 1722255833.0302203
+        },
+        {
+            "ticker": "ANSCW",
+            "error": "ANSCW data does not go back that far",
+            "timestamp": 1722255833.5514288
+        },
+        {
+            "ticker": "APO^A",
+            "error": "APO^A data does not go back that far",
+            "timestamp": 1722255836.44891
+        },
+        {
+            "ticker": "AREBW",
+            "error": "AREBW data does not go back that far",
+            "timestamp": 1722255838.686493
+        },
+        {
+            "ticker": "ARKOW",
+            "error": "ARKOW data does not go back that far",
+            "timestamp": 1722255839.4551136
+        },
+        {
+            "ticker": "ARR^C",
+            "error": "ARR^C data does not go back that far",
+            "timestamp": 1722255840.9841347
+        },
+        {
+            "ticker": "ASB^E",
+            "error": "ASB^E data does not go back that far",
+            "timestamp": 1722255842.9133935
+        },
+        {
+            "ticker": "ASB^F",
+            "error": "ASB^F data does not go back that far",
+            "timestamp": 1722255843.5484037
+        },
+        {
+            "ticker": "ASTLW",
+            "error": "ASTLW data does not go back that far",
+            "timestamp": 1722255845.4202719
+        },
+        {
+            "ticker": "ASTSW",
+            "error": "ASTSW data does not go back that far",
+            "timestamp": 1722255845.5396237
+        },
+        {
+            "ticker": "ATMCR",
+            "error": "ATMCR data does not go back that far",
+            "timestamp": 1722255846.8567111
+        },
+        {
+            "ticker": "ATMCW",
+            "error": "ATMCW data does not go back that far",
+            "timestamp": 1722255846.9209826
+        },
+        {
+            "ticker": "ATMVR",
+            "error": "ATMVR data does not go back that far",
+            "timestamp": 1722255847.1247976
+        },
+        {
+            "ticker": "ATNFW",
+            "error": "ATNFW data does not go back that far",
+            "timestamp": 1722255847.2555091
+        },
+        {
+            "ticker": "AUB^A",
+            "error": "AUB^A data does not go back that far",
+            "timestamp": 1722255849.3077092
+        },
+        {
+            "ticker": "AULT^D",
+            "error": "AULT^D data does not go back that far",
+            "timestamp": 1722255850.2363808
+        },
+        {
+            "ticker": "AUROW",
+            "error": "AUROW data does not go back that far",
+            "timestamp": 1722255850.5691652
+        },
+        {
+            "ticker": "AUUDW",
+            "error": "AUUDW data does not go back that far",
+            "timestamp": 1722255850.6898293
+        },
+        {
+            "ticker": "AVPTW",
+            "error": "AVPTW data does not go back that far",
+            "timestamp": 1722255851.9767237
+        },
+        {
+            "ticker": "BAC^B",
+            "error": "BAC^B data does not go back that far",
+            "timestamp": 1722255855.9135306
+        },
+        {
+            "ticker": "BAC^E",
+            "error": "BAC^E data does not go back that far",
+            "timestamp": 1722255856.5711517
+        },
+        {
+            "ticker": "BAC^K",
+            "error": "BAC^K data does not go back that far",
+            "timestamp": 1722255857.2315204
+        },
+        {
+            "ticker": "BAC^L",
+            "error": "BAC^L data does not go back that far",
+            "timestamp": 1722255857.8775268
+        },
+        {
+            "ticker": "BAC^M",
+            "error": "BAC^M data does not go back that far",
+            "timestamp": 1722255858.4753182
+        },
+        {
+            "ticker": "BAC^N",
+            "error": "BAC^N data does not go back that far",
+            "timestamp": 1722255859.112729
+        },
+        {
+            "ticker": "BAC^O",
+            "error": "BAC^O data does not go back that far",
+            "timestamp": 1722255859.7428546
+        },
+        {
+            "ticker": "BAC^P",
+            "error": "BAC^P data does not go back that far",
+            "timestamp": 1722255860.367574
+        },
+        {
+            "ticker": "BAC^Q",
+            "error": "BAC^Q data does not go back that far",
+            "timestamp": 1722255861.008541
+        },
+        {
+            "ticker": "BAC^S",
+            "error": "BAC^S data does not go back that far",
+            "timestamp": 1722255861.6150591
+        },
+        {
+            "ticker": "BAERW",
+            "error": "BAERW data does not go back that far",
+            "timestamp": 1722255861.8067265
+        },
+        {
+            "ticker": "BANC^F",
+            "error": "BANC^F data does not go back that far",
+            "timestamp": 1722255863.0249927
+        },
+        {
+            "ticker": "BC^A",
+            "error": "BC^A data does not go back that far",
+            "timestamp": 1722255865.8630364
+        },
+        {
+            "ticker": "BC^B",
+            "error": "BC^B data does not go back that far",
+            "timestamp": 1722255866.481051
+        },
+        {
+            "ticker": "BC^C",
+            "error": "BC^C data does not go back that far",
+            "timestamp": 1722255867.0901241
+        },
+        {
+            "ticker": "BCDAW",
+            "error": "BCDAW data does not go back that far",
+            "timestamp": 1722255867.665301
+        },
+        {
+            "ticker": "BCGWW",
+            "error": "BCGWW data does not go back that far",
+            "timestamp": 1722255867.8946753
+        },
+        {
+            "ticker": "BCTXW",
+            "error": "BCTXW data does not go back that far",
+            "timestamp": 1722255868.6221235
+        },
+        {
+            "ticker": "BCV^A",
+            "error": "BCV^A data does not go back that far",
+            "timestamp": 1722255869.3880408
+        },
+        {
+            "ticker": "BEATW",
+            "error": "BEATW data does not go back that far",
+            "timestamp": 1722255870.4406362
+        },
+        {
+            "ticker": "BENFW",
+            "error": "BENFW data does not go back that far",
+            "timestamp": 1722255870.9812014
+        },
+        {
+            "ticker": "BEP^A",
+            "error": "BEP^A data does not go back that far",
+            "timestamp": 1722255871.7405114
+        },
+        {
+            "ticker": "BF/A",
+            "error": "BF/A data does not go back that far",
+            "timestamp": 1722255872.736687
+        },
+        {
+            "ticker": "BF/B",
+            "error": "BF/B data does not go back that far",
+            "timestamp": 1722255873.3982902
+        },
+        {
+            "ticker": "BFIIW",
+            "error": "BFIIW data does not go back that far",
+            "timestamp": 1722255873.7488055
+        },
+        {
+            "ticker": "BFRGW",
+            "error": "BFRGW data does not go back that far",
+            "timestamp": 1722255874.1550272
+        },
+        {
+            "ticker": "BFS^D",
+            "error": "BFS^D data does not go back that far",
+            "timestamp": 1722255874.960435
+        },
+        {
+            "ticker": "BFS^E",
+            "error": "BFS^E data does not go back that far",
+            "timestamp": 1722255875.5739453
+        },
+        {
+            "ticker": "BHR^B",
+            "error": "BHR^B data does not go back that far",
+            "timestamp": 1722255878.7537475
+        },
+        {
+            "ticker": "BHR^D",
+            "error": "BHR^D data does not go back that far",
+            "timestamp": 1722255879.4015448
+        },
+        {
+            "ticker": "BIAFW",
+            "error": "BIAFW data does not go back that far",
+            "timestamp": 1722255879.7846832
+        },
+        {
+            "ticker": "BIO/B",
+            "error": "BIO/B data does not go back that far",
+            "timestamp": 1722255880.9920366
+        },
+        {
+            "ticker": "BLACW",
+            "error": "BLACW data does not go back that far",
+            "timestamp": 1722255883.5440104
+        },
+        {
+            "ticker": "BLDEW",
+            "error": "BLDEW data does not go back that far",
+            "timestamp": 1722255883.8956301
+        },
+        {
+            "ticker": "BLEUR",
+            "error": "BLEUR data does not go back that far",
+            "timestamp": 1722255884.2687938
+        },
+        {
+            "ticker": "BML^G",
+            "error": "BML^G data does not go back that far",
+            "timestamp": 1722255886.2461417
+        },
+        {
+            "ticker": "BML^H",
+            "error": "BML^H data does not go back that far",
+            "timestamp": 1722255886.870694
+        },
+        {
+            "ticker": "BML^J",
+            "error": "BML^J data does not go back that far",
+            "timestamp": 1722255888.3072598
+        },
+        {
+            "ticker": "BML^L",
+            "error": "BML^L data does not go back that far",
+            "timestamp": 1722255888.9193392
+        },
+        {
+            "ticker": "BNAIW",
+            "error": "BNAIW data does not go back that far",
+            "timestamp": 1722255889.6015515
+        },
+        {
+            "ticker": "BNIXW",
+            "error": "BNIXW data does not go back that far",
+            "timestamp": 1722255889.9265926
+        },
+        {
+            "ticker": "BOH^A",
+            "error": "BOH^A data does not go back that far",
+            "timestamp": 1722255891.5952077
+        },
+        {
+            "ticker": "BOH^B",
+            "error": "BOH^B data does not go back that far",
+            "timestamp": 1722255892.244113
+        },
+        {
+            "ticker": "BOWNR",
+            "error": "BOWNR data does not go back that far",
+            "timestamp": 1722255892.871191
+        },
+        {
+            "ticker": "BRACR",
+            "error": "BRACR data does not go back that far",
+            "timestamp": 1722255893.739465
+        },
+        {
+            "ticker": "BRK/A",
+            "error": "BRK/A data does not go back that far",
+            "timestamp": 1722255895.2138999
+        },
+        {
+            "ticker": "BRK/B",
+            "error": "BRK/B data does not go back that far",
+            "timestamp": 1722255895.8246691
+        },
+        {
+            "ticker": "BRKHW",
+            "error": "BRKHW data does not go back that far",
+            "timestamp": 1722255896.009797
+        },
+        {
+            "ticker": "BTBDW",
+            "error": "BTBDW data does not go back that far",
+            "timestamp": 1722255898.3167489
+        },
+        {
+            "ticker": "BTMWW",
+            "error": "BTMWW data does not go back that far",
+            "timestamp": 1722255898.9050148
+        },
+        {
+            "ticker": "BW^A",
+            "error": "BW^A data does not go back that far",
+            "timestamp": 1722255900.6520634
+        },
+        {
+            "ticker": "BZFDW",
+            "error": "BZFDW data does not go back that far",
+            "timestamp": 1722255902.8230717
+        },
+        {
+            "ticker": "C^N",
+            "error": "C^N data does not go back that far",
+            "timestamp": 1722255903.852764
+        },
+        {
+            "ticker": "CADE^A",
+            "error": "CADE^A data does not go back that far",
+            "timestamp": 1722255904.9120593
+        },
+        {
+            "ticker": "CCIXW",
+            "error": "CCIXW data does not go back that far",
+            "timestamp": 1722255909.9466512
+        },
+        {
+            "ticker": "CCTSW",
+            "error": "CCTSW data does not go back that far",
+            "timestamp": 1722255911.2904825
+        },
+        {
+            "ticker": "CDAQW",
+            "error": "CDAQW data does not go back that far",
+            "timestamp": 1722255911.5060532
+        },
+        {
+            "ticker": "CDIOW",
+            "error": "CDIOW data does not go back that far",
+            "timestamp": 1722255911.7026503
+        },
+        {
+            "ticker": "CDR^B",
+            "error": "CDR^B data does not go back that far",
+            "timestamp": 1722255912.6612236
+        },
+        {
+            "ticker": "CDR^C",
+            "error": "CDR^C data does not go back that far",
+            "timestamp": 1722255913.3459992
+        },
+        {
+            "ticker": "CDTTW",
+            "error": "CDTTW data does not go back that far",
+            "timestamp": 1722255913.5357563
+        },
+        {
+            "ticker": "CEADW",
+            "error": "CEADW data does not go back that far",
+            "timestamp": 1722255914.1535792
+        },
+        {
+            "ticker": "CELUW",
+            "error": "CELUW data does not go back that far",
+            "timestamp": 1722255914.9273024
+        },
+        {
+            "ticker": "CEROW",
+            "error": "CEROW data does not go back that far",
+            "timestamp": 1722255915.5101073
+        },
+        {
+            "ticker": "CFG^E",
+            "error": "CFG^E data does not go back that far",
+            "timestamp": 1722255917.3276148
+        },
+        {
+            "ticker": "CFG^H",
+            "error": "CFG^H data does not go back that far",
+            "timestamp": 1722255917.920891
+        },
+        {
+            "ticker": "CFR^B",
+            "error": "CFR^B data does not go back that far",
+            "timestamp": 1722255919.1794927
+        },
+        {
+            "ticker": "CIFRW",
+            "error": "CIFRW data does not go back that far",
+            "timestamp": 1722255923.4255536
+        },
+        {
+            "ticker": "CIM^A",
+            "error": "CIM^A data does not go back that far",
+            "timestamp": 1722255924.553598
+        },
+        {
+            "ticker": "CIM^B",
+            "error": "CIM^B data does not go back that far",
+            "timestamp": 1722255925.1848848
+        },
+        {
+            "ticker": "CIM^C",
+            "error": "CIM^C data does not go back that far",
+            "timestamp": 1722255925.9296887
+        },
+        {
+            "ticker": "CIM^D",
+            "error": "CIM^D data does not go back that far",
+            "timestamp": 1722255926.788659
+        },
+        {
+            "ticker": "CINGW",
+            "error": "CINGW data does not go back that far",
+            "timestamp": 1722255927.0893621
+        },
+        {
+            "ticker": "CIO^A",
+            "error": "CIO^A data does not go back that far",
+            "timestamp": 1722255927.9166691
+        },
+        {
+            "ticker": "CITEW",
+            "error": "CITEW data does not go back that far",
+            "timestamp": 1722255928.1690762
+        },
+        {
+            "ticker": "CLDT^A",
+            "error": "CLDT^A data does not go back that far",
+            "timestamp": 1722255929.5738106
+        },
+        {
+            "ticker": "CLNNW",
+            "error": "CLNNW data does not go back that far",
+            "timestamp": 1722255930.4518554
+        },
+        {
+            "ticker": "CLOER",
+            "error": "CLOER data does not go back that far",
+            "timestamp": 1722255930.5777967
+        },
+        {
+            "ticker": "CMAXW",
+            "error": "CMAXW data does not go back that far",
+            "timestamp": 1722255931.837893
+        },
+        {
+            "ticker": "CMPOW",
+            "error": "CMPOW data does not go back that far",
+            "timestamp": 1722255933.0541413
+        },
+        {
+            "ticker": "CMS^B",
+            "error": "CMS^B data does not go back that far",
+            "timestamp": 1722255933.9808087
+        },
+        {
+            "ticker": "CMS^C",
+            "error": "CMS^C data does not go back that far",
+            "timestamp": 1722255934.5943587
+        },
+        {
+            "ticker": "CNFRZ",
+            "error": "CNFRZ data does not go back that far",
+            "timestamp": 1722255935.7548757
+        },
+        {
+            "ticker": "CNO^A",
+            "error": "CNO^A data does not go back that far",
+            "timestamp": 1722255936.9499397
+        },
+        {
+            "ticker": "COCHW",
+            "error": "COCHW data does not go back that far",
+            "timestamp": 1722255938.245377
+        },
+        {
+            "ticker": "CODI^A",
+            "error": "CODI^A data does not go back that far",
+            "timestamp": 1722255939.1885755
+        },
+        {
+            "ticker": "CODI^B",
+            "error": "CODI^B data does not go back that far",
+            "timestamp": 1722255939.8027768
+        },
+        {
+            "ticker": "CODI^C",
+            "error": "CODI^C data does not go back that far",
+            "timestamp": 1722255940.405408
+        },
+        {
+            "ticker": "COEPW",
+            "error": "COEPW data does not go back that far",
+            "timestamp": 1722255940.5966048
+        },
+        {
+            "ticker": "COF^I",
+            "error": "COF^I data does not go back that far",
+            "timestamp": 1722255941.3259702
+        },
+        {
+            "ticker": "COF^J",
+            "error": "COF^J data does not go back that far",
+            "timestamp": 1722255942.0007217
+        },
+        {
+            "ticker": "COF^K",
+            "error": "COF^K data does not go back that far",
+            "timestamp": 1722255942.628891
+        },
+        {
+            "ticker": "COF^L",
+            "error": "COF^L data does not go back that far",
+            "timestamp": 1722255943.2396872
+        },
+        {
+            "ticker": "COF^N",
+            "error": "COF^N data does not go back that far",
+            "timestamp": 1722255943.836958
+        },
+        {
+            "ticker": "CORZW",
+            "error": "CORZW data does not go back that far",
+            "timestamp": 1722255945.7069962
+        },
+        {
+            "ticker": "CORZZ",
+            "error": "CORZZ data does not go back that far",
+            "timestamp": 1722255945.7678964
+        },
+        {
+            "ticker": "CPTNW",
+            "error": "CPTNW data does not go back that far",
+            "timestamp": 1722255947.6758742
+        },
+        {
+            "ticker": "CRD/A",
+            "error": "CRD/A data does not go back that far",
+            "timestamp": 1722255948.9444652
+        },
+        {
+            "ticker": "CRD/B",
+            "error": "CRD/B data does not go back that far",
+            "timestamp": 1722255949.5496216
+        },
+        {
+            "ticker": "CSLMW",
+            "error": "CSLMW data does not go back that far",
+            "timestamp": 1722255952.256356
+        },
+        {
+            "ticker": "CSLRW",
+            "error": "CSLRW data does not go back that far",
+            "timestamp": 1722255952.3842814
+        },
+        {
+            "ticker": "CSR^C",
+            "error": "CSR^C data does not go back that far",
+            "timestamp": 1722255953.3278735
+        },
+        {
+            "ticker": "CTA^A",
+            "error": "CTA^A data does not go back that far",
+            "timestamp": 1722255954.5734675
+        },
+        {
+            "ticker": "CTA^B",
+            "error": "CTA^B data does not go back that far",
+            "timestamp": 1722255955.2317421
+        },
+        {
+            "ticker": "CTCXW",
+            "error": "CTCXW data does not go back that far",
+            "timestamp": 1722255955.7169902
+        },
+        {
+            "ticker": "CTO^A",
+            "error": "CTO^A data does not go back that far",
+            "timestamp": 1722255957.0861073
+        },
+        {
+            "ticker": "CUBI^E",
+            "error": "CUBI^E data does not go back that far",
+            "timestamp": 1722255958.6980367
+        },
+        {
+            "ticker": "CUBI^F",
+            "error": "CUBI^F data does not go back that far",
+            "timestamp": 1722255959.3671603
+        },
+        {
+            "ticker": "CURIW",
+            "error": "CURIW data does not go back that far",
+            "timestamp": 1722255959.827142
+        },
+        {
+            "ticker": "CVIIW",
+            "error": "CVIIW data does not go back that far",
+            "timestamp": 1722255960.7319384
+        },
+        {
+            "ticker": "CXAIW",
+            "error": "CXAIW data does not go back that far",
+            "timestamp": 1722255962.6485796
+        },
+        {
+            "ticker": "DAVEW",
+            "error": "DAVEW data does not go back that far",
+            "timestamp": 1722255965.4930575
+        },
+        {
+            "ticker": "DBGIW",
+            "error": "DBGIW data does not go back that far",
+            "timestamp": 1722255965.8259454
+        },
+        {
+            "ticker": "DBRG^H",
+            "error": "DBRG^H data does not go back that far",
+            "timestamp": 1722255966.7664678
+        },
+        {
+            "ticker": "DBRG^I",
+            "error": "DBRG^I data does not go back that far",
+            "timestamp": 1722255967.394257
+        },
+        {
+            "ticker": "DBRG^J",
+            "error": "DBRG^J data does not go back that far",
+            "timestamp": 1722255968.1032746
+        },
+        {
+            "ticker": "DFLIW",
+            "error": "DFLIW data does not go back that far",
+            "timestamp": 1722255970.3742473
+        },
+        {
+            "ticker": "DHAIW",
+            "error": "DHAIW data does not go back that far",
+            "timestamp": 1722255971.279745
+        },
+        {
+            "ticker": "DHCNL",
+            "error": "DHCNL data does not go back that far",
+            "timestamp": 1722255971.5016937
+        },
+        {
+            "ticker": "DLR^J",
+            "error": "DLR^J data does not go back that far",
+            "timestamp": 1722255974.16181
+        },
+        {
+            "ticker": "DLR^K",
+            "error": "DLR^K data does not go back that far",
+            "timestamp": 1722255974.7769458
+        },
+        {
+            "ticker": "DLR^L",
+            "error": "DLR^L data does not go back that far",
+            "timestamp": 1722255975.4920993
+        },
+        {
+            "ticker": "DRH^A",
+            "error": "DRH^A data does not go back that far",
+            "timestamp": 1722255979.011912
+        },
+        {
+            "ticker": "DRMAW",
+            "error": "DRMAW data does not go back that far",
+            "timestamp": 1722255979.2452621
+        },
+        {
+            "ticker": "DTSQU",
+            "error": "DTSQU data does not go back that far",
+            "timestamp": 1722255981.2536633
+        },
+        {
+            "ticker": "DTSTW",
+            "error": "DTSTW data does not go back that far",
+            "timestamp": 1722255981.3787582
+        },
+        {
+            "ticker": "DUK^A",
+            "error": "DUK^A data does not go back that far",
+            "timestamp": 1722255982.2082827
+        },
+        {
+            "ticker": "DX^C",
+            "error": "DX^C data does not go back that far",
+            "timestamp": 1722255983.5747364
+        },
+        {
+            "ticker": "EAI",
+            "error": "EAI data does not go back that far",
+            "timestamp": 1722255984.6258886
+        },
+        {
+            "ticker": "ECC^D",
+            "error": "ECC^D data does not go back that far",
+            "timestamp": 1722255986.343141
+        },
+        {
+            "ticker": "ECF^A",
+            "error": "ECF^A data does not go back that far",
+            "timestamp": 1722255987.5230267
+        },
+        {
+            "ticker": "EDBLW",
+            "error": "EDBLW data does not go back that far",
+            "timestamp": 1722255988.1607325
+        },
+        {
+            "ticker": "EFC^A",
+            "error": "EFC^A data does not go back that far",
+            "timestamp": 1722255989.830201
+        },
+        {
+            "ticker": "EFC^B",
+            "error": "EFC^B data does not go back that far",
+            "timestamp": 1722255990.4570205
+        },
+        {
+            "ticker": "EFC^C",
+            "error": "EFC^C data does not go back that far",
+            "timestamp": 1722255991.094171
+        },
+        {
+            "ticker": "EFC^D",
+            "error": "EFC^D data does not go back that far",
+            "timestamp": 1722255991.65262
+        },
+        {
+            "ticker": "EFC^E",
+            "error": "EFC^E data does not go back that far",
+            "timestamp": 1722255992.3345697
+        },
+        {
+            "ticker": "ELC",
+            "error": "ELC data does not go back that far",
+            "timestamp": 1722255996.0789635
+        },
+        {
+            "ticker": "EMLDW",
+            "error": "EMLDW data does not go back that far",
+            "timestamp": 1722255997.9769793
+        },
+        {
+            "ticker": "EMP",
+            "error": "EMP data does not go back that far",
+            "timestamp": 1722255998.220194
+        },
+        {
+            "ticker": "ENGNW",
+            "error": "ENGNW data does not go back that far",
+            "timestamp": 1722255998.79546
+        },
+        {
+            "ticker": "EP^C",
+            "error": "EP^C data does not go back that far",
+            "timestamp": 1722256001.5607498
+        },
+        {
+            "ticker": "EPR^C",
+            "error": "EPR^C data does not go back that far",
+            "timestamp": 1722256002.80422
+        },
+        {
+            "ticker": "EPR^E",
+            "error": "EPR^E data does not go back that far",
+            "timestamp": 1722256003.418303
+        },
+        {
+            "ticker": "EPR^G",
+            "error": "EPR^G data does not go back that far",
+            "timestamp": 1722256004.0517776
+        },
+        {
+            "ticker": "EQC^D",
+            "error": "EQC^D data does not go back that far",
+            "timestamp": 1722256005.082108
+        },
+        {
+            "ticker": "EQH^A",
+            "error": "EQH^A data does not go back that far",
+            "timestamp": 1722256005.7941732
+        },
+        {
+            "ticker": "EQH^C",
+            "error": "EQH^C data does not go back that far",
+            "timestamp": 1722256006.4716086
+        },
+        {
+            "ticker": "ESHAR",
+            "error": "ESHAR data does not go back that far",
+            "timestamp": 1722256007.9250135
+        },
+        {
+            "ticker": "ESLAW",
+            "error": "ESLAW data does not go back that far",
+            "timestamp": 1722256008.1142683
+        },
+        {
+            "ticker": "ET^I",
+            "error": "ET^I data does not go back that far",
+            "timestamp": 1722256009.5065813
+        },
+        {
+            "ticker": "ETI^",
+            "error": "ETI^ data does not go back that far",
+            "timestamp": 1722256010.478675
+        },
+        {
+            "ticker": "EVLVW",
+            "error": "EVLVW data does not go back that far",
+            "timestamp": 1722256012.5165846
+        },
+        {
+            "ticker": "F^B",
+            "error": "F^B data does not go back that far",
+            "timestamp": 1722256016.025691
+        },
+        {
+            "ticker": "F^C",
+            "error": "F^C data does not go back that far",
+            "timestamp": 1722256016.7839146
+        },
+        {
+            "ticker": "F^D",
+            "error": "F^D data does not go back that far",
+            "timestamp": 1722256017.4466796
+        },
+        {
+            "ticker": "FAASW",
+            "error": "FAASW data does not go back that far",
+            "timestamp": 1722256017.633309
+        },
+        {
+            "ticker": "FATBW",
+            "error": "FATBW data does not go back that far",
+            "timestamp": 1722256018.4120781
+        },
+        {
+            "ticker": "FBRT^E",
+            "error": "FBRT^E data does not go back that far",
+            "timestamp": 1722256019.9610405
+        },
+        {
+            "ticker": "FEXDR",
+            "error": "FEXDR data does not go back that far",
+            "timestamp": 1722256022.807085
+        },
+        {
+            "ticker": "FFIEW",
+            "error": "FFIEW data does not go back that far",
+            "timestamp": 1722256023.5220003
+        },
+        {
+            "ticker": "FGIWW",
+            "error": "FGIWW data does not go back that far",
+            "timestamp": 1722256024.5455284
+        },
+        {
+            "ticker": "FHN^B",
+            "error": "FHN^B data does not go back that far",
+            "timestamp": 1722256025.616892
+        },
+        {
+            "ticker": "FHN^C",
+            "error": "FHN^C data does not go back that far",
+            "timestamp": 1722256026.2454052
+        },
+        {
+            "ticker": "FHN^E",
+            "error": "FHN^E data does not go back that far",
+            "timestamp": 1722256026.9057617
+        },
+        {
+            "ticker": "FHN^F",
+            "error": "FHN^F data does not go back that far",
+            "timestamp": 1722256027.545733
+        },
+        {
+            "ticker": "FIACW",
+            "error": "FIACW data does not go back that far",
+            "timestamp": 1722256027.804224
+        },
+        {
+            "ticker": "FORLW",
+            "error": "FORLW data does not go back that far",
+            "timestamp": 1722256032.942445
+        },
+        {
+            "ticker": "FRT^C",
+            "error": "FRT^C data does not go back that far",
+            "timestamp": 1722256036.0880601
+        },
+        {
+            "ticker": "FTIIW",
+            "error": "FTIIW data does not go back that far",
+            "timestamp": 1722256038.5074959
+        },
+        {
+            "ticker": "GAB^G",
+            "error": "GAB^G data does not go back that far",
+            "timestamp": 1722256041.2235665
+        },
+        {
+            "ticker": "GAB^H",
+            "error": "GAB^H data does not go back that far",
+            "timestamp": 1722256041.8945732
+        },
+        {
+            "ticker": "GAB^K",
+            "error": "GAB^K data does not go back that far",
+            "timestamp": 1722256042.481442
+        },
+        {
+            "ticker": "GAM^B",
+            "error": "GAM^B data does not go back that far",
+            "timestamp": 1722256043.851102
+        },
+        {
+            "ticker": "GBBKR",
+            "error": "GBBKR data does not go back that far",
+            "timestamp": 1722256044.6250901
+        },
+        {
+            "ticker": "GCMGW",
+            "error": "GCMGW data does not go back that far",
+            "timestamp": 1722256045.526985
+        },
+        {
+            "ticker": "GDL^C",
+            "error": "GDL^C data does not go back that far",
+            "timestamp": 1722256047.0266378
+        },
+        {
+            "ticker": "GDSTR",
+            "error": "GDSTR data does not go back that far",
+            "timestamp": 1722256047.3831673
+        },
+        {
+            "ticker": "GDSTW",
+            "error": "GDSTW data does not go back that far",
+            "timestamp": 1722256047.4417214
+        },
+        {
+            "ticker": "GDV^H",
+            "error": "GDV^H data does not go back that far",
+            "timestamp": 1722256048.2364266
+        },
+        {
+            "ticker": "GDV^K",
+            "error": "GDV^K data does not go back that far",
+            "timestamp": 1722256048.8831294
+        },
+        {
+            "ticker": "GECCZ",
+            "error": "GECCZ data does not go back that far",
+            "timestamp": 1722256049.5728078
+        },
+        {
+            "ticker": "GGN^B",
+            "error": "GGN^B data does not go back that far",
+            "timestamp": 1722256051.9793923
+        },
+        {
+            "ticker": "GGT^E",
+            "error": "GGT^E data does not go back that far",
+            "timestamp": 1722256052.7286139
+        },
+        {
+            "ticker": "GGT^G",
+            "error": "GGT^G data does not go back that far",
+            "timestamp": 1722256053.3704052
+        },
+        {
+            "ticker": "GHIXW",
+            "error": "GHIXW data does not go back that far",
+            "timestamp": 1722256053.831381
+        },
+        {
+            "ticker": "GL^D",
+            "error": "GL^D data does not go back that far",
+            "timestamp": 1722256056.5044143
+        },
+        {
+            "ticker": "GLLIR",
+            "error": "GLLIR data does not go back that far",
+            "timestamp": 1722256056.9913528
+        },
+        {
+            "ticker": "GLP^B",
+            "error": "GLP^B data does not go back that far",
+            "timestamp": 1722256057.9398472
+        },
+        {
+            "ticker": "GLSTR",
+            "error": "GLSTR data does not go back that far",
+            "timestamp": 1722256058.3052385
+        },
+        {
+            "ticker": "GLU^A",
+            "error": "GLU^A data does not go back that far",
+            "timestamp": 1722256059.3761866
+        },
+        {
+            "ticker": "GLU^B",
+            "error": "GLU^B data does not go back that far",
+            "timestamp": 1722256059.9802635
+        },
+        {
+            "ticker": "GMRE^A",
+            "error": "GMRE^A data does not go back that far",
+            "timestamp": 1722256061.4203875
+        },
+        {
+            "ticker": "GNL^A",
+            "error": "GNL^A data does not go back that far",
+            "timestamp": 1722256062.4408815
+        },
+        {
+            "ticker": "GNL^B",
+            "error": "GNL^B data does not go back that far",
+            "timestamp": 1722256063.0667028
+        },
+        {
+            "ticker": "GNL^D",
+            "error": "GNL^D data does not go back that far",
+            "timestamp": 1722256063.8868084
+        },
+        {
+            "ticker": "GNL^E",
+            "error": "GNL^E data does not go back that far",
+            "timestamp": 1722256064.6362226
+        },
+        {
+            "ticker": "GNT^A",
+            "error": "GNT^A data does not go back that far",
+            "timestamp": 1722256065.7718298
+        },
+        {
+            "ticker": "GODNR",
+            "error": "GODNR data does not go back that far",
+            "timestamp": 1722256066.329035
+        },
+        {
+            "ticker": "GOEVW",
+            "error": "GOEVW data does not go back that far",
+            "timestamp": 1722256066.4520645
+        },
+        {
+            "ticker": "GOVXW",
+            "error": "GOVXW data does not go back that far",
+            "timestamp": 1722256067.560324
+        },
+        {
+            "ticker": "GPATW",
+            "error": "GPATW data does not go back that far",
+            "timestamp": 1722256067.9007938
+        },
+        {
+            "ticker": "GPMT^A",
+            "error": "GPMT^A data does not go back that far",
+            "timestamp": 1722256069.174326
+        },
+        {
+            "ticker": "GRBK^A",
+            "error": "GRBK^A data does not go back that far",
+            "timestamp": 1722256070.751835
+        },
+        {
+            "ticker": "GRDIW",
+            "error": "GRDIW data does not go back that far",
+            "timestamp": 1722256071.0019948
+        },
+        {
+            "ticker": "GROMW",
+            "error": "GROMW data does not go back that far",
+            "timestamp": 1722256071.4995844
+        },
+        {
+            "ticker": "GS^A",
+            "error": "GS^A data does not go back that far",
+            "timestamp": 1722256072.8147974
+        },
+        {
+            "ticker": "GS^C",
+            "error": "GS^C data does not go back that far",
+            "timestamp": 1722256073.4479697
+        },
+        {
+            "ticker": "GS^D",
+            "error": "GS^D data does not go back that far",
+            "timestamp": 1722256074.0312755
+        },
+        {
+            "ticker": "GTACW",
+            "error": "GTACW data does not go back that far",
+            "timestamp": 1722256074.682324
+        },
+        {
+            "ticker": "GTLS^B",
+            "error": "GTLS^B data does not go back that far",
+            "timestamp": 1722256075.741071
+        },
+        {
+            "ticker": "GUT^C",
+            "error": "GUT^C data does not go back that far",
+            "timestamp": 1722256076.8336122
+        },
+        {
+            "ticker": "HCVIW",
+            "error": "HCVIW data does not go back that far",
+            "timestamp": 1722256080.701703
+        },
+        {
+            "ticker": "HEI/A",
+            "error": "HEI/A data does not go back that far",
+            "timestamp": 1722256083.452002
+        },
+        {
+            "ticker": "HFRO^A",
+            "error": "HFRO^A data does not go back that far",
+            "timestamp": 1722256084.767059
+        },
+        {
+            "ticker": "HIG^G",
+            "error": "HIG^G data does not go back that far",
+            "timestamp": 1722256086.3701825
+        },
+        {
+            "ticker": "HL^B",
+            "error": "HL^B data does not go back that far",
+            "timestamp": 1722256087.8335576
+        },
+        {
+            "ticker": "HOFVW",
+            "error": "HOFVW data does not go back that far",
+            "timestamp": 1722256089.8042893
+        },
+        {
+            "ticker": "HOLOW",
+            "error": "HOLOW data does not go back that far",
+            "timestamp": 1722256090.0426354
+        },
+        {
+            "ticker": "HOVRW",
+            "error": "HOVRW data does not go back that far",
+            "timestamp": 1722256091.175015
+        },
+        {
+            "ticker": "HPP^C",
+            "error": "HPP^C data does not go back that far",
+            "timestamp": 1722256092.6254368
+        },
+        {
+            "ticker": "HSCSW",
+            "error": "HSCSW data does not go back that far",
+            "timestamp": 1722256094.2919185
+        },
+        {
+            "ticker": "HTZWW",
+            "error": "HTZWW data does not go back that far",
+            "timestamp": 1722256096.2080126
+        },
+        {
+            "ticker": "HUMAW",
+            "error": "HUMAW data does not go back that far",
+            "timestamp": 1722256096.853813
+        },
+        {
+            "ticker": "HVT/A",
+            "error": "HVT/A data does not go back that far",
+            "timestamp": 1722256098.240029
+        },
+        {
+            "ticker": "HWM^",
+            "error": "HWM^ data does not go back that far",
+            "timestamp": 1722256099.404511
+        },
+        {
+            "ticker": "HYMCW",
+            "error": "HYMCW data does not go back that far",
+            "timestamp": 1722256100.0675452
+        },
+        {
+            "ticker": "HYZNW",
+            "error": "HYZNW data does not go back that far",
+            "timestamp": 1722256100.3956096
+        },
+        {
+            "ticker": "ICUCW",
+            "error": "ICUCW data does not go back that far",
+            "timestamp": 1722256102.5714712
+        },
+        {
+            "ticker": "IGTAR",
+            "error": "IGTAR data does not go back that far",
+            "timestamp": 1722256104.7057745
+        },
+        {
+            "ticker": "IGTAW",
+            "error": "IGTAW data does not go back that far",
+            "timestamp": 1722256104.834218
+        },
+        {
+            "ticker": "IIPR^A",
+            "error": "IIPR^A data does not go back that far",
+            "timestamp": 1722256106.5587435
+        },
+        {
+            "ticker": "IMAQR",
+            "error": "IMAQR data does not go back that far",
+            "timestamp": 1722256106.949644
+        },
+        {
+            "ticker": "INN^E",
+            "error": "INN^E data does not go back that far",
+            "timestamp": 1722256110.122553
+        },
+        {
+            "ticker": "INN^F",
+            "error": "INN^F data does not go back that far",
+            "timestamp": 1722256111.0460207
+        },
+        {
+            "ticker": "IPXXW",
+            "error": "IPXXW data does not go back that far",
+            "timestamp": 1722256114.8664153
+        },
+        {
+            "ticker": "IROHR",
+            "error": "IROHR data does not go back that far",
+            "timestamp": 1722256115.7333853
+        },
+        {
+            "ticker": "ISRLW",
+            "error": "ISRLW data does not go back that far",
+            "timestamp": 1722256116.9106653
+        },
+        {
+            "ticker": "IVCPW",
+            "error": "IVCPW data does not go back that far",
+            "timestamp": 1722256118.1089866
+        },
+        {
+            "ticker": "IVDAW",
+            "error": "IVDAW data does not go back that far",
+            "timestamp": 1722256118.2366312
+        },
+        {
+            "ticker": "IVR^B",
+            "error": "IVR^B data does not go back that far",
+            "timestamp": 1722256119.047666
+        },
+        {
+            "ticker": "IVR^C",
+            "error": "IVR^C data does not go back that far",
+            "timestamp": 1722256119.71569
+        },
+        {
+            "ticker": "JPM^C",
+            "error": "JPM^C data does not go back that far",
+            "timestamp": 1722256124.5108128
+        },
+        {
+            "ticker": "JPM^D",
+            "error": "JPM^D data does not go back that far",
+            "timestamp": 1722256125.1582882
+        },
+        {
+            "ticker": "JPM^J",
+            "error": "JPM^J data does not go back that far",
+            "timestamp": 1722256125.7670922
+        },
+        {
+            "ticker": "JPM^K",
+            "error": "JPM^K data does not go back that far",
+            "timestamp": 1722256126.3994105
+        },
+        {
+            "ticker": "JPM^L",
+            "error": "JPM^L data does not go back that far",
+            "timestamp": 1722256127.0463839
+        },
+        {
+            "ticker": "JPM^M",
+            "error": "JPM^M data does not go back that far",
+            "timestamp": 1722256127.7027214
+        },
+        {
+            "ticker": "JSPRW",
+            "error": "JSPRW data does not go back that far",
+            "timestamp": 1722256128.2970064
+        },
+        {
+            "ticker": "JXN^A",
+            "error": "JXN^A data does not go back that far",
+            "timestamp": 1722256129.1891332
+        },
+        {
+            "ticker": "KDLYW",
+            "error": "KDLYW data does not go back that far",
+            "timestamp": 1722256130.2080069
+        },
+        {
+            "ticker": "KEY^I",
+            "error": "KEY^I data does not go back that far",
+            "timestamp": 1722256131.56907
+        },
+        {
+            "ticker": "KEY^J",
+            "error": "KEY^J data does not go back that far",
+            "timestamp": 1722256132.2067795
+        },
+        {
+            "ticker": "KEY^K",
+            "error": "KEY^K data does not go back that far",
+            "timestamp": 1722256132.9687378
+        },
+        {
+            "ticker": "KEY^L",
+            "error": "KEY^L data does not go back that far",
+            "timestamp": 1722256133.6287987
+        },
+        {
+            "ticker": "KIM^L",
+            "error": "KIM^L data does not go back that far",
+            "timestamp": 1722256135.30476
+        },
+        {
+            "ticker": "KIM^M",
+            "error": "KIM^M data does not go back that far",
+            "timestamp": 1722256135.9594986
+        },
+        {
+            "ticker": "KIM^N",
+            "error": "KIM^N data does not go back that far",
+            "timestamp": 1722256136.658447
+        },
+        {
+            "ticker": "KITTW",
+            "error": "KITTW data does not go back that far",
+            "timestamp": 1722256137.1051016
+        },
+        {
+            "ticker": "KPLTW",
+            "error": "KPLTW data does not go back that far",
+            "timestamp": 1722256139.537233
+        },
+        {
+            "ticker": "KREF^A",
+            "error": "KREF^A data does not go back that far",
+            "timestamp": 1722256140.8189528
+        },
+        {
+            "ticker": "KTTAW",
+            "error": "KTTAW data does not go back that far",
+            "timestamp": 1722256142.8335457
+        },
+        {
+            "ticker": "KVACW",
+            "error": "KVACW data does not go back that far",
+            "timestamp": 1722256143.1449819
+        },
+        {
+            "ticker": "KWESW",
+            "error": "KWESW data does not go back that far",
+            "timestamp": 1722256143.5577927
+        },
+        {
+            "ticker": "LDTCW",
+            "error": "LDTCW data does not go back that far",
+            "timestamp": 1722256146.899556
+        },
+        {
+            "ticker": "LEXXW",
+            "error": "LEXXW data does not go back that far",
+            "timestamp": 1722256148.3817537
+        },
+        {
+            "ticker": "LFLYW",
+            "error": "LFLYW data does not go back that far",
+            "timestamp": 1722256148.565364
+        },
+        {
+            "ticker": "LFT^A",
+            "error": "LFT^A data does not go back that far",
+            "timestamp": 1722256149.501769
+        },
+        {
+            "ticker": "LIFWZ",
+            "error": "LIFWZ data does not go back that far",
+            "timestamp": 1722256150.857859
+        },
+        {
+            "ticker": "LINE",
+            "error": "LINE data does not go back that far",
+            "timestamp": 1722256151.3943975
+        },
+        {
+            "ticker": "LNC^D",
+            "error": "LNC^D data does not go back that far",
+            "timestamp": 1722256153.8267033
+        },
+        {
+            "ticker": "LNZAW",
+            "error": "LNZAW data does not go back that far",
+            "timestamp": 1722256154.5209014
+        },
+        {
+            "ticker": "LSEAW",
+            "error": "LSEAW data does not go back that far",
+            "timestamp": 1722256156.8845603
+        },
+        {
+            "ticker": "LTRYW",
+            "error": "LTRYW data does not go back that far",
+            "timestamp": 1722256157.9062736
+        },
+        {
+            "ticker": "LUNRW",
+            "error": "LUNRW data does not go back that far",
+            "timestamp": 1722256158.6035938
+        },
+        {
+            "ticker": "LXP^C",
+            "error": "LXP^C data does not go back that far",
+            "timestamp": 1722256160.1833
+        },
+        {
+            "ticker": "MAA^I",
+            "error": "MAA^I data does not go back that far",
+            "timestamp": 1722256161.862306
+        },
+        {
+            "ticker": "MACAW",
+            "error": "MACAW data does not go back that far",
+            "timestamp": 1722256162.1837842
+        },
+        {
+            "ticker": "MACIW",
+            "error": "MACIW data does not go back that far",
+            "timestamp": 1722256162.370706
+        },
+        {
+            "ticker": "MAPSW",
+            "error": "MAPSW data does not go back that far",
+            "timestamp": 1722256162.9959133
+        },
+        {
+            "ticker": "MAQCW",
+            "error": "MAQCW data does not go back that far",
+            "timestamp": 1722256163.145904
+        },
+        {
+            "ticker": "MCAAW",
+            "error": "MCAAW data does not go back that far",
+            "timestamp": 1722256165.4248686
+        },
+        {
+            "ticker": "MDAIW",
+            "error": "MDAIW data does not go back that far",
+            "timestamp": 1722256167.4630575
+        },
+        {
+            "ticker": "MER^K",
+            "error": "MER^K data does not go back that far",
+            "timestamp": 1722256169.68845
+        },
+        {
+            "ticker": "MET^A",
+            "error": "MET^A data does not go back that far",
+            "timestamp": 1722256170.721208
+        },
+        {
+            "ticker": "MET^E",
+            "error": "MET^E data does not go back that far",
+            "timestamp": 1722256171.3528316
+        },
+        {
+            "ticker": "MET^F",
+            "error": "MET^F data does not go back that far",
+            "timestamp": 1722256171.9852982
+        },
+        {
+            "ticker": "MFA^B",
+            "error": "MFA^B data does not go back that far",
+            "timestamp": 1722256173.0330906
+        },
+        {
+            "ticker": "MFA^C",
+            "error": "MFA^C data does not go back that far",
+            "timestamp": 1722256173.7042243
+        },
+        {
+            "ticker": "MITT^A",
+            "error": "MITT^A data does not go back that far",
+            "timestamp": 1722256179.0778627
+        },
+        {
+            "ticker": "MITT^B",
+            "error": "MITT^B data does not go back that far",
+            "timestamp": 1722256179.7725747
+        },
+        {
+            "ticker": "MITT^C",
+            "error": "MITT^C data does not go back that far",
+            "timestamp": 1722256180.4246268
+        },
+        {
+            "ticker": "MNTSW",
+            "error": "MNTSW data does not go back that far",
+            "timestamp": 1722256184.0084944
+        },
+        {
+            "ticker": "MOBXW",
+            "error": "MOBXW data does not go back that far",
+            "timestamp": 1722256184.3713605
+        },
+        {
+            "ticker": "MRNOW",
+            "error": "MRNOW data does not go back that far",
+            "timestamp": 1722256187.8524785
+        },
+        {
+            "ticker": "MS^A",
+            "error": "MS^A data does not go back that far",
+            "timestamp": 1722256189.1706805
+        },
+        {
+            "ticker": "MS^E",
+            "error": "MS^E data does not go back that far",
+            "timestamp": 1722256189.7481818
+        },
+        {
+            "ticker": "MS^F",
+            "error": "MS^F data does not go back that far",
+            "timestamp": 1722256190.6741424
+        },
+        {
+            "ticker": "MS^I",
+            "error": "MS^I data does not go back that far",
+            "timestamp": 1722256191.2673287
+        },
+        {
+            "ticker": "MS^K",
+            "error": "MS^K data does not go back that far",
+            "timestamp": 1722256191.996569
+        },
+        {
+            "ticker": "MS^L",
+            "error": "MS^L data does not go back that far",
+            "timestamp": 1722256192.596877
+        },
+        {
+            "ticker": "MS^O",
+            "error": "MS^O data does not go back that far",
+            "timestamp": 1722256193.2286792
+        },
+        {
+            "ticker": "MS^P",
+            "error": "MS^P data does not go back that far",
+            "timestamp": 1722256193.8462229
+        },
+        {
+            "ticker": "MSAIW",
+            "error": "MSAIW data does not go back that far",
+            "timestamp": 1722256194.0940347
+        },
+        {
+            "ticker": "MSSAR",
+            "error": "MSSAR data does not go back that far",
+            "timestamp": 1722256195.571323
+        },
+        {
+            "ticker": "MSSAW",
+            "error": "MSSAW data does not go back that far",
+            "timestamp": 1722256195.628399
+        },
+        {
+            "ticker": "MTB^H",
+            "error": "MTB^H data does not go back that far",
+            "timestamp": 1722256196.5705261
+        },
+        {
+            "ticker": "MTB^J",
+            "error": "MTB^J data does not go back that far",
+            "timestamp": 1722256197.2232354
+        },
+        {
+            "ticker": "MVSTW",
+            "error": "MVSTW data does not go back that far",
+            "timestamp": 1722256200.2346296
+        },
+        {
+            "ticker": "NBSTW",
+            "error": "NBSTW data does not go back that far",
+            "timestamp": 1722256203.828079
+        },
+        {
+            "ticker": "NCPLW",
+            "error": "NCPLW data does not go back that far",
+            "timestamp": 1722256204.6819177
+        },
+        {
+            "ticker": "NCV^A",
+            "error": "NCV^A data does not go back that far",
+            "timestamp": 1722256205.802849
+        },
+        {
+            "ticker": "NCZ^A",
+            "error": "NCZ^A data does not go back that far",
+            "timestamp": 1722256206.568338
+        },
+        {
+            "ticker": "NEE^N",
+            "error": "NEE^N data does not go back that far",
+            "timestamp": 1722256208.1618018
+        },
+        {
+            "ticker": "NEE^R",
+            "error": "NEE^R data does not go back that far",
+            "timestamp": 1722256208.8972256
+        },
+        {
+            "ticker": "NEE^S",
+            "error": "NEE^S data does not go back that far",
+            "timestamp": 1722256209.5838213
+        },
+        {
+            "ticker": "NEOVW",
+            "error": "NEOVW data does not go back that far",
+            "timestamp": 1722256210.1087713
+        },
+        {
+            "ticker": "NGL^B",
+            "error": "NGL^B data does not go back that far",
+            "timestamp": 1722256212.5965812
+        },
+        {
+            "ticker": "NGL^C",
+            "error": "NGL^C data does not go back that far",
+            "timestamp": 1722256213.3236969
+        },
+        {
+            "ticker": "NIOBW",
+            "error": "NIOBW data does not go back that far",
+            "timestamp": 1722256214.693466
+        },
+        {
+            "ticker": "NKGNW",
+            "error": "NKGNW data does not go back that far",
+            "timestamp": 1722256215.0625453
+        },
+        {
+            "ticker": "NLY^F",
+            "error": "NLY^F data does not go back that far",
+            "timestamp": 1722256216.4087248
+        },
+        {
+            "ticker": "NLY^G",
+            "error": "NLY^G data does not go back that far",
+            "timestamp": 1722256217.136003
+        },
+        {
+            "ticker": "NLY^I",
+            "error": "NLY^I data does not go back that far",
+            "timestamp": 1722256217.7664783
+        },
+        {
+            "ticker": "NMHIW",
+            "error": "NMHIW data does not go back that far",
+            "timestamp": 1722256218.1056545
+        },
+        {
+            "ticker": "NNAGR",
+            "error": "NNAGR data does not go back that far",
+            "timestamp": 1722256219.1383362
+        },
+        {
+            "ticker": "NNAVW",
+            "error": "NNAVW data does not go back that far",
+            "timestamp": 1722256219.1922915
+        },
+        {
+            "ticker": "NREF^A",
+            "error": "NREF^A data does not go back that far",
+            "timestamp": 1722256222.9690633
+        },
+        {
+            "ticker": "NRXPW",
+            "error": "NRXPW data does not go back that far",
+            "timestamp": 1722256223.9312654
+        },
+        {
+            "ticker": "NSA^A",
+            "error": "NSA^A data does not go back that far",
+            "timestamp": 1722256224.6435738
+        },
+        {
+            "ticker": "NVACR",
+            "error": "NVACR data does not go back that far",
+            "timestamp": 1722256227.5486221
+        },
+        {
+            "ticker": "NVACW",
+            "error": "NVACW data does not go back that far",
+            "timestamp": 1722256227.6081722
+        },
+        {
+            "ticker": "NXDT^A",
+            "error": "NXDT^A data does not go back that far",
+            "timestamp": 1722256230.7977996
+        },
+        {
+            "ticker": "NXGLW",
+            "error": "NXGLW data does not go back that far",
+            "timestamp": 1722256231.2019782
+        },
+        {
+            "ticker": "NXPLW",
+            "error": "NXPLW data does not go back that far",
+            "timestamp": 1722256231.7686093
+        },
+        {
+            "ticker": "NYCB^A",
+            "error": "NYCB^A data does not go back that far",
+            "timestamp": 1722256232.928997
+        },
+        {
+            "ticker": "NYCB^U",
+            "error": "NYCB^U data does not go back that far",
+            "timestamp": 1722256234.1174388
+        },
+        {
+            "ticker": "O^",
+            "error": "O^ data does not go back that far",
+            "timestamp": 1722256235.7382352
+        },
+        {
+            "ticker": "OABIW",
+            "error": "OABIW data does not go back that far",
+            "timestamp": 1722256235.912984
+        },
+        {
+            "ticker": "OAK^A",
+            "error": "OAK^A data does not go back that far",
+            "timestamp": 1722256236.5857034
+        },
+        {
+            "ticker": "OAK^B",
+            "error": "OAK^B data does not go back that far",
+            "timestamp": 1722256237.2152178
+        },
+        {
+            "ticker": "OAKUW",
+            "error": "OAKUW data does not go back that far",
+            "timestamp": 1722256237.3486733
+        },
+        {
+            "ticker": "OCEAW",
+            "error": "OCEAW data does not go back that far",
+            "timestamp": 1722256238.3001056
+        },
+        {
+            "ticker": "ONFOW",
+            "error": "ONFOW data does not go back that far",
+            "timestamp": 1722256243.398831
+        },
+        {
+            "ticker": "OPP^A",
+            "error": "OPP^A data does not go back that far",
+            "timestamp": 1722256245.5368032
+        },
+        {
+            "ticker": "OPP^B",
+            "error": "OPP^B data does not go back that far",
+            "timestamp": 1722256246.168065
+        },
+        {
+            "ticker": "OPTXW",
+            "error": "OPTXW data does not go back that far",
+            "timestamp": 1722256246.5958545
+        },
+        {
+            "ticker": "ORGNW",
+            "error": "ORGNW data does not go back that far",
+            "timestamp": 1722256247.2777011
+        },
+        {
+            "ticker": "OS",
+            "error": "OS data does not go back that far",
+            "timestamp": 1722256247.9260488
+        },
+        {
+            "ticker": "PAVMZ",
+            "error": "PAVMZ data does not go back that far",
+            "timestamp": 1722256252.429792
+        },
+        {
+            "ticker": "PAYOW",
+            "error": "PAYOW data does not go back that far",
+            "timestamp": 1722256252.7522178
+        },
+        {
+            "ticker": "PBI^B",
+            "error": "PBI^B data does not go back that far",
+            "timestamp": 1722256254.3690538
+        },
+        {
+            "ticker": "PBMWW",
+            "error": "PBMWW data does not go back that far",
+            "timestamp": 1722256254.4930954
+        },
+        {
+            "ticker": "PCG^A",
+            "error": "PCG^A data does not go back that far",
+            "timestamp": 1722256256.2283118
+        },
+        {
+            "ticker": "PCG^B",
+            "error": "PCG^B data does not go back that far",
+            "timestamp": 1722256256.9306204
+        },
+        {
+            "ticker": "PCG^C",
+            "error": "PCG^C data does not go back that far",
+            "timestamp": 1722256257.6137712
+        },
+        {
+            "ticker": "PCG^D",
+            "error": "PCG^D data does not go back that far",
+            "timestamp": 1722256258.3194768
+        },
+        {
+            "ticker": "PCG^E",
+            "error": "PCG^E data does not go back that far",
+            "timestamp": 1722256258.940851
+        },
+        {
+            "ticker": "PCG^G",
+            "error": "PCG^G data does not go back that far",
+            "timestamp": 1722256259.6006813
+        },
+        {
+            "ticker": "PCG^H",
+            "error": "PCG^H data does not go back that far",
+            "timestamp": 1722256260.2894084
+        },
+        {
+            "ticker": "PCG^I",
+            "error": "PCG^I data does not go back that far",
+            "timestamp": 1722256261.014019
+        },
+        {
+            "ticker": "PCTTW",
+            "error": "PCTTW data does not go back that far",
+            "timestamp": 1722256262.04781
+        },
+        {
+            "ticker": "PEB^E",
+            "error": "PEB^E data does not go back that far",
+            "timestamp": 1722256264.4107838
+        },
+        {
+            "ticker": "PEB^F",
+            "error": "PEB^F data does not go back that far",
+            "timestamp": 1722256265.1739619
+        },
+        {
+            "ticker": "PEB^G",
+            "error": "PEB^G data does not go back that far",
+            "timestamp": 1722256265.7999156
+        },
+        {
+            "ticker": "PEB^H",
+            "error": "PEB^H data does not go back that far",
+            "timestamp": 1722256266.5428858
+        },
+        {
+            "ticker": "PEGRW",
+            "error": "PEGRW data does not go back that far",
+            "timestamp": 1722256267.3588033
+        },
+        {
+            "ticker": "PETWW",
+            "error": "PETWW data does not go back that far",
+            "timestamp": 1722256268.2921598
+        },
+        {
+            "ticker": "PFTAW",
+            "error": "PFTAW data does not go back that far",
+            "timestamp": 1722256270.0436609
+        },
+        {
+            "ticker": "PIIIW",
+            "error": "PIIIW data does not go back that far",
+            "timestamp": 1722256272.1681309
+        },
+        {
+            "ticker": "PLMIW",
+            "error": "PLMIW data does not go back that far",
+            "timestamp": 1722256274.3460343
+        },
+        {
+            "ticker": "PLMJW",
+            "error": "PLMJW data does not go back that far",
+            "timestamp": 1722256274.533604
+        },
+        {
+            "ticker": "PMT^A",
+            "error": "PMT^A data does not go back that far",
+            "timestamp": 1722256276.9022424
+        },
+        {
+            "ticker": "PMT^B",
+            "error": "PMT^B data does not go back that far",
+            "timestamp": 1722256277.6274471
+        },
+        {
+            "ticker": "PMT^C",
+            "error": "PMT^C data does not go back that far",
+            "timestamp": 1722256278.306975
+        },
+        {
+            "ticker": "PPYAW",
+            "error": "PPYAW data does not go back that far",
+            "timestamp": 1722256281.5611124
+        },
+        {
+            "ticker": "PRLHW",
+            "error": "PRLHW data does not go back that far",
+            "timestamp": 1722256283.1215
+        },
+        {
+            "ticker": "PRSTW",
+            "error": "PRSTW data does not go back that far",
+            "timestamp": 1722256284.1546347
+        },
+        {
+            "ticker": "PSA^F",
+            "error": "PSA^F data does not go back that far",
+            "timestamp": 1722256285.4620554
+        },
+        {
+            "ticker": "PSA^G",
+            "error": "PSA^G data does not go back that far",
+            "timestamp": 1722256286.0890968
+        },
+        {
+            "ticker": "PSA^H",
+            "error": "PSA^H data does not go back that far",
+            "timestamp": 1722256286.7013297
+        },
+        {
+            "ticker": "PSA^I",
+            "error": "PSA^I data does not go back that far",
+            "timestamp": 1722256287.3601184
+        },
+        {
+            "ticker": "PSA^J",
+            "error": "PSA^J data does not go back that far",
+            "timestamp": 1722256287.9495296
+        },
+        {
+            "ticker": "PSA^K",
+            "error": "PSA^K data does not go back that far",
+            "timestamp": 1722256288.6367207
+        },
+        {
+            "ticker": "PSA^L",
+            "error": "PSA^L data does not go back that far",
+            "timestamp": 1722256289.6774876
+        },
+        {
+            "ticker": "PSA^M",
+            "error": "PSA^M data does not go back that far",
+            "timestamp": 1722256290.3479838
+        },
+        {
+            "ticker": "PSA^N",
+            "error": "PSA^N data does not go back that far",
+            "timestamp": 1722256290.9896286
+        },
+        {
+            "ticker": "PSA^O",
+            "error": "PSA^O data does not go back that far",
+            "timestamp": 1722256291.7407477
+        },
+        {
+            "ticker": "PSA^P",
+            "error": "PSA^P data does not go back that far",
+            "timestamp": 1722256292.4239895
+        },
+        {
+            "ticker": "PSA^Q",
+            "error": "PSA^Q data does not go back that far",
+            "timestamp": 1722256293.05975
+        },
+        {
+            "ticker": "PSA^R",
+            "error": "PSA^R data does not go back that far",
+            "timestamp": 1722256293.7542374
+        },
+        {
+            "ticker": "PSA^S",
+            "error": "PSA^S data does not go back that far",
+            "timestamp": 1722256294.7991188
+        },
+        {
+            "ticker": "PSEC^A",
+            "error": "PSEC^A data does not go back that far",
+            "timestamp": 1722256295.771994
+        },
+        {
+            "ticker": "PTWOW",
+            "error": "PTWOW data does not go back that far",
+            "timestamp": 1722256297.6646686
+        },
+        {
+            "ticker": "PW^A",
+            "error": "PW^A data does not go back that far",
+            "timestamp": 1722256299.0980601
+        },
+        {
+            "ticker": "PWUPW",
+            "error": "PWUPW data does not go back that far",
+            "timestamp": 1722256299.6311867
+        },
+        {
+            "ticker": "QETAR",
+            "error": "QETAR data does not go back that far",
+            "timestamp": 1722256300.907199
+        },
+        {
+            "ticker": "QOMOR",
+            "error": "QOMOR data does not go back that far",
+            "timestamp": 1722256301.4576206
+        },
+        {
+            "ticker": "QOMOW",
+            "error": "QOMOW data does not go back that far",
+            "timestamp": 1722256301.5101655
+        },
+        {
+            "ticker": "RC^C",
+            "error": "RC^C data does not go back that far",
+            "timestamp": 1722256305.241348
+        },
+        {
+            "ticker": "RC^E",
+            "error": "RC^E data does not go back that far",
+            "timestamp": 1722256305.9561505
+        },
+        {
+            "ticker": "RCKTW",
+            "error": "RCKTW data does not go back that far",
+            "timestamp": 1722256306.608838
+        },
+        {
+            "ticker": "RCRTW",
+            "error": "RCRTW data does not go back that far",
+            "timestamp": 1722256307.1036446
+        },
+        {
+            "ticker": "RDZNW",
+            "error": "RDZNW data does not go back that far",
+            "timestamp": 1722256308.0663164
+        },
+        {
+            "ticker": "RELIW",
+            "error": "RELIW data does not go back that far",
+            "timestamp": 1722256308.9618504
+        },
+        {
+            "ticker": "REVBW",
+            "error": "REVBW data does not go back that far",
+            "timestamp": 1722256309.8362093
+        },
+        {
+            "ticker": "REXR^B",
+            "error": "REXR^B data does not go back that far",
+            "timestamp": 1722256310.7424848
+        },
+        {
+            "ticker": "REXR^C",
+            "error": "REXR^C data does not go back that far",
+            "timestamp": 1722256311.377652
+        },
+        {
+            "ticker": "RF^B",
+            "error": "RF^B data does not go back that far",
+            "timestamp": 1722256312.2624173
+        },
+        {
+            "ticker": "RF^C",
+            "error": "RF^C data does not go back that far",
+            "timestamp": 1722256312.8907557
+        },
+        {
+            "ticker": "RF^E",
+            "error": "RF^E data does not go back that far",
+            "timestamp": 1722256313.621135
+        },
+        {
+            "ticker": "RGTIW",
+            "error": "RGTIW data does not go back that far",
+            "timestamp": 1722256315.0256016
+        },
+        {
+            "ticker": "RITM^A",
+            "error": "RITM^A data does not go back that far",
+            "timestamp": 1722256316.9162545
+        },
+        {
+            "ticker": "RITM^B",
+            "error": "RITM^B data does not go back that far",
+            "timestamp": 1722256317.8401215
+        },
+        {
+            "ticker": "RITM^C",
+            "error": "RITM^C data does not go back that far",
+            "timestamp": 1722256318.5238829
+        },
+        {
+            "ticker": "RITM^D",
+            "error": "RITM^D data does not go back that far",
+            "timestamp": 1722256319.1963596
+        },
+        {
+            "ticker": "RIV^A",
+            "error": "RIV^A data does not go back that far",
+            "timestamp": 1722256319.997114
+        },
+        {
+            "ticker": "RJF^B",
+            "error": "RJF^B data does not go back that far",
+            "timestamp": 1722256320.842102
+        },
+        {
+            "ticker": "RLJ^A",
+            "error": "RLJ^A data does not go back that far",
+            "timestamp": 1722256322.1687217
+        },
+        {
+            "ticker": "ROCLW",
+            "error": "ROCLW data does not go back that far",
+            "timestamp": 1722256324.4363194
+        },
+        {
+            "ticker": "RUMBW",
+            "error": "RUMBW data does not go back that far",
+            "timestamp": 1722256327.1988304
+        },
+        {
+            "ticker": "RVMDW",
+            "error": "RVMDW data does not go back that far",
+            "timestamp": 1722256327.6353433
+        },
+        {
+            "ticker": "RVPHW",
+            "error": "RVPHW data does not go back that far",
+            "timestamp": 1722256327.8980982
+        },
+        {
+            "ticker": "RWT^A",
+            "error": "RWT^A data does not go back that far",
+            "timestamp": 1722256330.189874
+        },
+        {
+            "ticker": "SABSW",
+            "error": "SABSW data does not go back that far",
+            "timestamp": 1722256331.7150846
+        },
+        {
+            "ticker": "SACH^A",
+            "error": "SACH^A data does not go back that far",
+            "timestamp": 1722256332.5101414
+        },
+        {
+            "ticker": "SBFMW",
+            "error": "SBFMW data does not go back that far",
+            "timestamp": 1722256334.6058815
+        },
+        {
+            "ticker": "SCE^G",
+            "error": "SCE^G data does not go back that far",
+            "timestamp": 1722256336.6516473
+        },
+        {
+            "ticker": "SCE^H",
+            "error": "SCE^H data does not go back that far",
+            "timestamp": 1722256337.2992375
+        },
+        {
+            "ticker": "SCE^J",
+            "error": "SCE^J data does not go back that far",
+            "timestamp": 1722256337.947558
+        },
+        {
+            "ticker": "SCE^K",
+            "error": "SCE^K data does not go back that far",
+            "timestamp": 1722256338.5824487
+        },
+        {
+            "ticker": "SCE^L",
+            "error": "SCE^L data does not go back that far",
+            "timestamp": 1722256339.2125998
+        },
+        {
+            "ticker": "SCE^M",
+            "error": "SCE^M data does not go back that far",
+            "timestamp": 1722256339.9187577
+        },
+        {
+            "ticker": "SCE^N",
+            "error": "SCE^N data does not go back that far",
+            "timestamp": 1722256340.5885344
+        },
+        {
+            "ticker": "SCHW^D",
+            "error": "SCHW^D data does not go back that far",
+            "timestamp": 1722256341.4392235
+        },
+        {
+            "ticker": "SCHW^J",
+            "error": "SCHW^J data does not go back that far",
+            "timestamp": 1722256342.063235
+        },
+        {
+            "ticker": "SCLXW",
+            "error": "SCLXW data does not go back that far",
+            "timestamp": 1722256342.5225997
+        },
+        {
+            "ticker": "SDSTW",
+            "error": "SDSTW data does not go back that far",
+            "timestamp": 1722256343.6535425
+        },
+        {
+            "ticker": "SF^B",
+            "error": "SF^B data does not go back that far",
+            "timestamp": 1722256346.4764807
+        },
+        {
+            "ticker": "SF^C",
+            "error": "SF^C data does not go back that far",
+            "timestamp": 1722256347.1033478
+        },
+        {
+            "ticker": "SF^D",
+            "error": "SF^D data does not go back that far",
+            "timestamp": 1722256347.680265
+        },
+        {
+            "ticker": "SFB",
+            "error": "SFB data does not go back that far",
+            "timestamp": 1722256347.736959
+        },
+        {
+            "ticker": "SHFSW",
+            "error": "SHFSW data does not go back that far",
+            "timestamp": 1722256350.0238612
+        },
+        {
+            "ticker": "SHO^H",
+            "error": "SHO^H data does not go back that far",
+            "timestamp": 1722256351.0002859
+        },
+        {
+            "ticker": "SHO^I",
+            "error": "SHO^I data does not go back that far",
+            "timestamp": 1722256351.863661
+        },
+        {
+            "ticker": "SHOTW",
+            "error": "SHOTW data does not go back that far",
+            "timestamp": 1722256352.131905
+        },
+        {
+            "ticker": "SITC^A",
+            "error": "SITC^A data does not go back that far",
+            "timestamp": 1722256354.350197
+        },
+        {
+            "ticker": "SLAMW",
+            "error": "SLAMW data does not go back that far",
+            "timestamp": 1722256356.161993
+        },
+        {
+            "ticker": "SLDPW",
+            "error": "SLDPW data does not go back that far",
+            "timestamp": 1722256356.4216716
+        },
+        {
+            "ticker": "SLG^I",
+            "error": "SLG^I data does not go back that far",
+            "timestamp": 1722256357.3305292
+        },
+        {
+            "ticker": "SNAXW",
+            "error": "SNAXW data does not go back that far",
+            "timestamp": 1722256360.6220076
+        },
+        {
+            "ticker": "SNV^D",
+            "error": "SNV^D data does not go back that far",
+            "timestamp": 1722256363.003728
+        },
+        {
+            "ticker": "SNV^E",
+            "error": "SNV^E data does not go back that far",
+            "timestamp": 1722256363.6244078
+        },
+        {
+            "ticker": "SONDW",
+            "error": "SONDW data does not go back that far",
+            "timestamp": 1722256364.9042687
+        },
+        {
+            "ticker": "SOUNW",
+            "error": "SOUNW data does not go back that far",
+            "timestamp": 1722256365.448266
+        },
+        {
+            "ticker": "SPECW",
+            "error": "SPECW data does not go back that far",
+            "timestamp": 1722256366.545158
+        },
+        {
+            "ticker": "SPG^J",
+            "error": "SPG^J data does not go back that far",
+            "timestamp": 1722256367.4256809
+        },
+        {
+            "ticker": "SPKLW",
+            "error": "SPKLW data does not go back that far",
+            "timestamp": 1722256367.9597208
+        },
+        {
+            "ticker": "SPLP^A",
+            "error": "SPLP^A data does not go back that far",
+            "timestamp": 1722256368.6691983
+        },
+        {
+            "ticker": "SQFTW",
+            "error": "SQFTW data does not go back that far",
+            "timestamp": 1722256369.93479
+        },
+        {
+            "ticker": "SR^A",
+            "error": "SR^A data does not go back that far",
+            "timestamp": 1722256370.7780585
+        },
+        {
+            "ticker": "SRG^A",
+            "error": "SRG^A data does not go back that far",
+            "timestamp": 1722256372.07603
+        },
+        {
+            "ticker": "STSSW",
+            "error": "STSSW data does not go back that far",
+            "timestamp": 1722256376.482721
+        },
+        {
+            "ticker": "STT^G",
+            "error": "STT^G data does not go back that far",
+            "timestamp": 1722256377.235359
+        },
+        {
+            "ticker": "SURGW",
+            "error": "SURGW data does not go back that far",
+            "timestamp": 1722256378.3290617
+        },
+        {
+            "ticker": "SXTPW",
+            "error": "SXTPW data does not go back that far",
+            "timestamp": 1722256380.5718527
+        },
+        {
+            "ticker": "SYF^A",
+            "error": "SYF^A data does not go back that far",
+            "timestamp": 1722256381.6755
+        },
+        {
+            "ticker": "SYF^B",
+            "error": "SYF^B data does not go back that far",
+            "timestamp": 1722256382.3051379
+        },
+        {
+            "ticker": "SYTAW",
+            "error": "SYTAW data does not go back that far",
+            "timestamp": 1722256383.0006773
+        },
+        {
+            "ticker": "T^A",
+            "error": "T^A data does not go back that far",
+            "timestamp": 1722256383.8695672
+        },
+        {
+            "ticker": "T^C",
+            "error": "T^C data does not go back that far",
+            "timestamp": 1722256384.764371
+        },
+        {
+            "ticker": "TALKW",
+            "error": "TALKW data does not go back that far",
+            "timestamp": 1722256385.1701765
+        },
+        {
+            "ticker": "TDS^U",
+            "error": "TDS^U data does not go back that far",
+            "timestamp": 1722256388.898517
+        },
+        {
+            "ticker": "TDS^V",
+            "error": "TDS^V data does not go back that far",
+            "timestamp": 1722256389.5563362
+        },
+        {
+            "ticker": "TENKR",
+            "error": "TENKR data does not go back that far",
+            "timestamp": 1722256390.8237953
+        },
+        {
+            "ticker": "TFC^I",
+            "error": "TFC^I data does not go back that far",
+            "timestamp": 1722256391.9276502
+        },
+        {
+            "ticker": "TFC^O",
+            "error": "TFC^O data does not go back that far",
+            "timestamp": 1722256392.7014253
+        },
+        {
+            "ticker": "TFC^R",
+            "error": "TFC^R data does not go back that far",
+            "timestamp": 1722256393.3702748
+        },
+        {
+            "ticker": "TMTCR",
+            "error": "TMTCR data does not go back that far",
+            "timestamp": 1722256398.7953768
+        },
+        {
+            "ticker": "TNONW",
+            "error": "TNONW data does not go back that far",
+            "timestamp": 1722256399.4638517
+        },
+        {
+            "ticker": "TOIIW",
+            "error": "TOIIW data does not go back that far",
+            "timestamp": 1722256399.730088
+        },
+        {
+            "ticker": "TRONW",
+            "error": "TRONW data does not go back that far",
+            "timestamp": 1722256403.5434308
+        },
+        {
+            "ticker": "TRTN^A",
+            "error": "TRTN^A data does not go back that far",
+            "timestamp": 1722256404.7817383
+        },
+        {
+            "ticker": "TRTN^B",
+            "error": "TRTN^B data does not go back that far",
+            "timestamp": 1722256405.3879635
+        },
+        {
+            "ticker": "TRTN^C",
+            "error": "TRTN^C data does not go back that far",
+            "timestamp": 1722256406.1581814
+        },
+        {
+            "ticker": "TRTN^D",
+            "error": "TRTN^D data does not go back that far",
+            "timestamp": 1722256406.8175669
+        },
+        {
+            "ticker": "TRTN^E",
+            "error": "TRTN^E data does not go back that far",
+            "timestamp": 1722256407.4140728
+        },
+        {
+            "ticker": "TRTX^C",
+            "error": "TRTX^C data does not go back that far",
+            "timestamp": 1722256408.1463308
+        },
+        {
+            "ticker": "TWO^A",
+            "error": "TWO^A data does not go back that far",
+            "timestamp": 1722256412.8588514
+        },
+        {
+            "ticker": "TWO^B",
+            "error": "TWO^B data does not go back that far",
+            "timestamp": 1722256413.7361498
+        },
+        {
+            "ticker": "TWO^C",
+            "error": "TWO^C data does not go back that far",
+            "timestamp": 1722256414.4154243
+        },
+        {
+            "ticker": "TY^",
+            "error": "TY^ data does not go back that far",
+            "timestamp": 1722256415.8627198
+        },
+        {
+            "ticker": "UHGWW",
+            "error": "UHGWW data does not go back that far",
+            "timestamp": 1722256419.0764782
+        },
+        {
+            "ticker": "UKOMW",
+            "error": "UKOMW data does not go back that far",
+            "timestamp": 1722256419.651845
+        },
+        {
+            "ticker": "UMH^D",
+            "error": "UMH^D data does not go back that far",
+            "timestamp": 1722256420.921224
+        },
+        {
+            "ticker": "USB^A",
+            "error": "USB^A data does not go back that far",
+            "timestamp": 1722256423.9331813
+        },
+        {
+            "ticker": "USB^H",
+            "error": "USB^H data does not go back that far",
+            "timestamp": 1722256424.5575092
+        },
+        {
+            "ticker": "USB^P",
+            "error": "USB^P data does not go back that far",
+            "timestamp": 1722256425.2007997
+        },
+        {
+            "ticker": "USB^Q",
+            "error": "USB^Q data does not go back that far",
+            "timestamp": 1722256425.8155077
+        },
+        {
+            "ticker": "USB^R",
+            "error": "USB^R data does not go back that far",
+            "timestamp": 1722256426.4508514
+        },
+        {
+            "ticker": "USB^S",
+            "error": "USB^S data does not go back that far",
+            "timestamp": 1722256427.0854669
+        },
+        {
+            "ticker": "USGOW",
+            "error": "USGOW data does not go back that far",
+            "timestamp": 1722256427.4244874
+        },
+        {
+            "ticker": "VGASW",
+            "error": "VGASW data does not go back that far",
+            "timestamp": 1722256432.2008429
+        },
+        {
+            "ticker": "VMCAW",
+            "error": "VMCAW data does not go back that far",
+            "timestamp": 1722256435.3442512
+        },
+        {
+            "ticker": "VNO^L",
+            "error": "VNO^L data does not go back that far",
+            "timestamp": 1722256436.6359332
+        },
+        {
+            "ticker": "VNO^M",
+            "error": "VNO^M data does not go back that far",
+            "timestamp": 1722256437.4282935
+        },
+        {
+            "ticker": "VNO^N",
+            "error": "VNO^N data does not go back that far",
+            "timestamp": 1722256438.107574
+        },
+        {
+            "ticker": "VNO^O",
+            "error": "VNO^O data does not go back that far",
+            "timestamp": 1722256438.7992713
+        },
+        {
+            "ticker": "VOYA^B",
+            "error": "VOYA^B data does not go back that far",
+            "timestamp": 1722256439.9469225
+        },
+        {
+            "ticker": "VSACW",
+            "error": "VSACW data does not go back that far",
+            "timestamp": 1722256441.861164
+        },
+        {
+            "ticker": "VSEEW",
+            "error": "VSEEW data does not go back that far",
+            "timestamp": 1722256442.2447252
+        },
+        {
+            "ticker": "VWEWW",
+            "error": "VWEWW data does not go back that far",
+            "timestamp": 1722256444.3453526
+        },
+        {
+            "ticker": "WAL^A",
+            "error": "WAL^A data does not go back that far",
+            "timestamp": 1722256446.3038273
+        },
+        {
+            "ticker": "WBS^F",
+            "error": "WBS^F data does not go back that far",
+            "timestamp": 1722256448.046313
+        },
+        {
+            "ticker": "WBS^G",
+            "error": "WBS^G data does not go back that far",
+            "timestamp": 1722256448.684079
+        },
+        {
+            "ticker": "WCC^A",
+            "error": "WCC^A data does not go back that far",
+            "timestamp": 1722256449.4736755
+        },
+        {
+            "ticker": "WENAW",
+            "error": "WENAW data does not go back that far",
+            "timestamp": 1722256450.6472194
+        },
+        {
+            "ticker": "WESTW",
+            "error": "WESTW data does not go back that far",
+            "timestamp": 1722256450.9925663
+        },
+        {
+            "ticker": "WFC^A",
+            "error": "WFC^A data does not go back that far",
+            "timestamp": 1722256451.9631565
+        },
+        {
+            "ticker": "WFC^C",
+            "error": "WFC^C data does not go back that far",
+            "timestamp": 1722256452.714455
+        },
+        {
+            "ticker": "WFC^D",
+            "error": "WFC^D data does not go back that far",
+            "timestamp": 1722256453.3815145
+        },
+        {
+            "ticker": "WFC^L",
+            "error": "WFC^L data does not go back that far",
+            "timestamp": 1722256454.1409018
+        },
+        {
+            "ticker": "WFC^Y",
+            "error": "WFC^Y data does not go back that far",
+            "timestamp": 1722256454.803042
+        },
+        {
+            "ticker": "WFC^Z",
+            "error": "WFC^Z data does not go back that far",
+            "timestamp": 1722256455.4463766
+        },
+        {
+            "ticker": "WGSWW",
+            "error": "WGSWW data does not go back that far",
+            "timestamp": 1722256455.8273666
+        },
+        {
+            "ticker": "WINVR",
+            "error": "WINVR data does not go back that far",
+            "timestamp": 1722256457.0837183
+        },
+        {
+            "ticker": "WINVW",
+            "error": "WINVW data does not go back that far",
+            "timestamp": 1722256457.2082112
+        },
+        {
+            "ticker": "WKSPW",
+            "error": "WKSPW data does not go back that far",
+            "timestamp": 1722256457.7215052
+        },
+        {
+            "ticker": "WRB^E",
+            "error": "WRB^E data does not go back that far",
+            "timestamp": 1722256460.799727
+        },
+        {
+            "ticker": "WRB^F",
+            "error": "WRB^F data does not go back that far",
+            "timestamp": 1722256461.3974426
+        },
+        {
+            "ticker": "WRB^G",
+            "error": "WRB^G data does not go back that far",
+            "timestamp": 1722256462.0280693
+        },
+        {
+            "ticker": "WRB^H",
+            "error": "WRB^H data does not go back that far",
+            "timestamp": 1722256463.5834968
+        },
+        {
+            "ticker": "WSO/B",
+            "error": "WSO/B data does not go back that far",
+            "timestamp": 1722256466.1037595
+        },
+        {
+            "ticker": "WTMAR",
+            "error": "WTMAR data does not go back that far",
+            "timestamp": 1722256467.0618694
+        },
+        {
+            "ticker": "XBPEW",
+            "error": "XBPEW data does not go back that far",
+            "timestamp": 1722256468.8244562
+        },
+        {
+            "ticker": "XFINW",
+            "error": "XFINW data does not go back that far",
+            "timestamp": 1722256469.515392
+        },
+        {
+            "ticker": "XFLT^A",
+            "error": "XFLT^A data does not go back that far",
+            "timestamp": 1722256470.2013385
+        },
+        {
+            "ticker": "XOSWW",
+            "error": "XOSWW data does not go back that far",
+            "timestamp": 1722256471.1329668
+        },
+        {
+            "ticker": "YCBD^A",
+            "error": "YCBD^A data does not go back that far",
+            "timestamp": 1722256473.0432906
+        },
+        {
+            "ticker": "YOTAR",
+            "error": "YOTAR data does not go back that far",
+            "timestamp": 1722256473.6837115
+        },
+        {
+            "ticker": "YOTAW",
+            "error": "YOTAW data does not go back that far",
+            "timestamp": 1722256473.7577448
+        },
+        {
+            "ticker": "ZCARW",
+            "error": "ZCARW data does not go back that far",
+            "timestamp": 1722256474.4092853
+        },
+        {
+            "ticker": "ZEOWW",
+            "error": "ZEOWW data does not go back that far",
+            "timestamp": 1722256474.611325
+        },
+        {
+            "ticker": "ZPTAW",
+            "error": "ZPTAW data does not go back that far",
+            "timestamp": 1722256475.8062208
+        }
+    ]
+]
